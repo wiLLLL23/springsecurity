@@ -10,7 +10,7 @@
 		<version.javax.servlet>3.1.0</version.javax.servlet>
 		<version.servlet.jstl>1.2</version.servlet.jstl>
 		<verssion.spring.context>4.1.4.RELEASE</verssion.spring.context>
-		<version.spring.webmvc>4.1.4.RELEASE</version.spring.webmvc>
+		<version.spring.webmvc>5.2.20.RELEASE</version.spring.webmvc>
 		<version.spring.security.web>4.0.1.RELEASE</version.spring.security.web>
 		<version.spring.security.config>4.0.1.RELEASE</version.spring.security.config>
 		<version.spring.security.taglibs>4.0.1.RELEASE</version.spring.security.taglibs>
